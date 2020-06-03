@@ -1,0 +1,8 @@
+.drawer{
+    transition: all .35s ease-in-out 0s;
+}
+
+.offscreen{
+    visibility: hidden;
+    transform: translate3d(0, 100%, 0);
+}
